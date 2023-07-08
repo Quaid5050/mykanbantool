@@ -1,0 +1,39 @@
+.cardinfop {
+  padding: 20px;
+  width: 500px;
+  min-height: 400px;
+  position: fixed;
+  top: 80px;
+  left: 27%;
+  background-color: #B68A35;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif; 
+
+}
+.member{
+  color: black;
+}
+.iop{
+  margin-bottom: 13px;
+  color: black;
+}
+h2{
+  font-size: 20px;
+  padding-bottom: 3px;
+}
+
+input{
+  width: 90%;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  height: 40px;
+}
+.project{
+  background-color: #f39c12!important;
+  font-weight: bold;
+
+  
+}
+.close_icon{
+  color: black;
+}

@@ -1,0 +1,57 @@
+
+.background{
+color: white;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,0.7261029411764706) 0%, rgba(253,187,45,1) 100%);
+    display: flex;
+    padding: 7% 5%;
+    min-height: 89vh;
+    gap: 3%;
+     font-family: 'Montserrat', sans-serif;
+
+
+}
+.first{
+    flex-basis: 50%;
+}
+.second {
+    flex-basis: 50%;
+    margin-bottom: 100px;
+    
+}
+.second img {
+    width: 80%;
+}
+.heading{
+    font-size: 40px;
+    margin-top: 0px;
+    color: white !important;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+}
+.para{
+    margin-top: 15px;
+    color: white !important;
+    font-weight: bold;
+}
+.first .getstarted{
+    margin-top: 10px;
+    margin-left: 0px;
+    background: #f39c12;
+    padding: 10px 20px ;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    
+    display: flex;
+    
+    align-items: center;
+    font-weight: bold;
+}
+.but{
+    display: flex;
+    
+    align-items: center;
+}
